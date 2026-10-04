@@ -1,148 +1,126 @@
 ﻿<div align="center">
 
-<img src="./assets/svg/header-jjk.svg" width="100%" alt="Mochammad Bisma Prasetya - Cursed Developer" />
+<img src="./assets/svg/header-jjk.svg" width="100%" alt="Mochammad Bisma Prasetya, IT Developer di Spindo" />
 
 <br />
 
-<a href="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=600&size=23&pause=1300&color=F472B6&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%E2%9A%A1+IT+Developer+%40+Spindo%0ADjango+%C2%B7+Flask+%C2%B7+Laravel+%C2%B7+Flutter+%C2%B7+PostgreSQL%0AS1+Informatika+%E2%80%94+3+sampai+5+tahun+ngoding">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=600&size=23&pause=1300&color=F472B6&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%E2%9A%A1+IT+Developer+%40+Spindo%0ADjango+%C2%B7+Flask+%C2%B7+Laravel+%C2%B7+Flutter+%C2%B7+PostgreSQL%0AS1+Informatika+%E2%80%94+3+sampai+5+tahun+ngoding" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=8B6CFF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%E2%80%94+IT+Developer+%40+Spindo%0ADjango+%C2%B7+Flask+%C2%B7+Laravel+%C2%B7+Flutter%0APostgreSQL+%C2%B7+MySQL+%C2%B7+MongoDB+%C2%B7+OWASP+ZAP%0AS1+Informatika+%E2%80%94+terbuka+untuk+kerja+remote">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=8B6CFF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%E2%80%94+IT+Developer+%40+Spindo%0ADjango+%C2%B7+Flask+%C2%B7+Laravel+%C2%B7+Flutter%0APostgreSQL+%C2%B7+MySQL+%C2%B7+MongoDB+%C2%B7+OWASP+ZAP%0AS1+Informatika+%E2%80%94+terbuka+untuk+kerja+remote" alt="Ringkasan profil" />
 </a>
 
 <br />
 
-<img src="https://img.shields.io/badge/Domain%20Expansion-7C3AED?style=for-the-badge&logoColor=E879F9" />
-<img src="https://img.shields.io/badge/Grade-Special%20Grade-B3262E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Terbuka%20kerja%20remote-7FD1A0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IT%20Developer%20%40%20Spindo-0E0B16?style=for-the-badge" />
+<img src="https://img.shields.io/badge/role-IT%20Developer%20%40%20Spindo-8B6CFF?style=flat-square" />
+<img src="https://img.shields.io/badge/experience-3%E2%80%935%20years-4F46E5?style=flat-square" />
+<img src="https://img.shields.io/badge/education-S1%20Informatika-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/status-open%20to%20remote%20work-166534?style=flat-square" />
+
 <br />
-<img src="https://img.shields.io/badge/Backend-Django%20%7C%20Flask%20%7C%20Laravel-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Mobile-Flutter%20%7C%20Firebase-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Security-OWASP%20ZAP%20%7C%20RBAC%20%7C%20OTP-B3262E?style=for-the-badge" />
-<br />
-<img src="https://komarev.com/ghpvc/?username=Masbismaa&style=for-the-badge&color=E879F9&label=PROFILE%20VIEWS" />
+
+<a href="https://masbismaa.github.io/#games"><img src="https://img.shields.io/badge/website-Domain%20Expansion-8B6CFF?style=flat-square&logo=githubpages&logoColor=white" /></a>
+<a href="#puzzle-bebaskan-diri-dari-domain"><img src="https://img.shields.io/badge/readme-puzzle%3A%203%20doors-4F46E5?style=flat-square" /></a>
+<a href="#stack"><img src="https://img.shields.io/badge/readme-stack-0F172A?style=flat-square" /></a>
 
 <br /><br />
 
-<a href="https://masbismaa.github.io/Masbismaa/#games"><img src="https://img.shields.io/badge/%F0%9F%8E%B0%20MAIN%20SEKARANG%20%E2%9A%A1%20Domain%20Gacha%20%2B%20Ujian%20Penyihir-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
-&nbsp;&nbsp;
-<a href="https://masbismaa.github.io/Masbismaa/#games"><img src="https://img.shields.io/badge/%F0%9F%93%9F%20BUKA%20DOMAIN%20EXPANSION-7C3AED?style=for-the-badge" /></a>
-&nbsp;&nbsp;
-<a href="#-puzzle-bebaskan-diri-dari-domain"><img src="https://img.shields.io/badge/%F0%9F%94%A7%20Main%20Puzzle%20di%20README-9D174D?style=for-the-badge" /></a>
-
-<br /><br />
-
-<a href="#%E5%93%91-sop"><kbd>&nbsp;SOP&nbsp;</kbd></a>&nbsp;
-<a href="#-puzzle-bebaskan-diri-dari-domain"><kbd>&nbsp;PUZZLE&nbsp;</kbd></a>&nbsp;
-<a href="#-ujian-penyihir"><kbd>&nbsp;QUIZ&nbsp;</kbd></a>&nbsp;
-<a href="#-stack"><kbd>&nbsp;STACK&nbsp;</kbd></a>&nbsp;
-<a href="#-featured-project"><kbd>&nbsp;PROJECT&nbsp;</kbd></a>&nbsp;
-<a href="#-gradient"><kbd>&nbsp;STATS&nbsp;</kbd></a>&nbsp;
-<a href="#-kirim-sinyal"><kbd>&nbsp;CONTACT&nbsp;</kbd></a>
+<a href="#sorcerer-sop"><kbd>SOP</kbd></a>&nbsp;
+<a href="#puzzle-bebaskan-diri-dari-domain"><kbd>PUZZLE</kbd></a>&nbsp;
+<a href="#ujian-penyihir"><kbd>QUIZ</kbd></a>&nbsp;
+<a href="#checklist"><kbd>CHECKLIST</kbd></a>&nbsp;
+<a href="#stack"><kbd>STACK</kbd></a>&nbsp;
+<a href="#featured-project"><kbd>PROJECT</kbd></a>&nbsp;
+<a href="#kontak"><kbd>KONTAK</kbd></a>
 
 </div>
 
 ---
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  呪  M O C H A M M A D   B I S M A   P R A S E T Y A    ║
-║     ⚡  F U L L   S T A C K   D E V E L O P E R  ⚡       ║
-╚══════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║   呪   M O C H A M M A D   B I S M A   P R A S E T Y A      ║
+║        I T   D E V E L O P E R   @   S P I N D O           ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
-## 呪 SOP
+## Sorcerer SOP
 
 ```python
-class MochammadBismaPrasetya:
-    name   = "Mochammad Bisma Prasetya"
+class Bisma:
     handle = "Masbismaa"
-    grade  = "IT Developer @ Spindo"
+    role   = "IT Developer @ Spindo"
     degree = "S1 Informatika"
-    years  = 3 - 5
+    years  = "3 - 5"
 
     backend  = ["Django", "Flask", "Laravel", "CodeIgniter"]
     mobile   = ["Flutter", "Dart", "Firebase"]
     database = ["PostgreSQL", "MySQL", "MongoDB"]
-    vows     = ["OWASP ZAP", "RBAC", "Audit Log", "OTP", "Rate Limiting"]
-    hobbies  = ["anime", "game", "musik"]
-    curses   = ["Docker & Cloud", "PenTest", "Microservices", "AI / LLM"]
+    security = ["OWASP ZAP", "RBAC", "audit log", "OTP", "rate limiting"]
+    learning = ["Docker", "penetration testing", "microservices", "AI / LLM"]
 
-    def build(self, need):
-        return "App yang jalan, aman, dan enak dipakai."
+    def ship(self, requirement):
+        return "jalan, aman, enak dipakai"
 ```
 
-Aku **Bisma**, IT Developer di **Spindo** dengan pengalaman ngoding 3 sampai 5 tahun. Lulusan S1 Informatika yang suka membangun aplikasi dari ujung ke ujung: backend **Django**, **Flask**, **Laravel**, frontend web, sampai aplikasi mobile **Flutter**. Aplikasi yang kubangun kugambar dengan **OWASP ZAP** dan kuk.attach **RBAC**, **audit log**, serta login **OTP**.
+Aku **Bisma**, IT Developer di **Spindo**, pengalaman ngoding 3 sampai 5 tahun. Lulusan S1 Informatika yang biasanya Pegang aplikasi dari skema database sampai endpoint-nya: backend Django, Flask, Laravel, CodeIgniter, sisi web, sampai mobile Flutter.
 
-> Cara kerjaku satu kalimat: **kejar requirement sampai deploy, sambil ngejepit celah XSS & SQLi.**
+Setiap aplikasi yang kubangun kucek dengan **OWASP ZAP**, lalu kukasih **RBAC**, **audit log**, dan login **OTP** supaya data sensitif tidak hanya dilindungi password.
+
+> Cara kerja satu kalimat: **kejar requirement sampai deploy, sambil menutup celah yang bisa dieksploitasi.**
 
 <details>
-<summary><b>🥷 Kenapa repo ini dibuat? <i>(Jawab sendiri ya)</i></b></summary>
+<summary><b>Kenapa repo ini interaktif?</b></summary>
 <br />
 
-Repo ini bukan cuma portofolio. Ini **arena latihan** — tempat aku ngetes seberapa sering aku buru-buru nulis kode tanpa merusak repo orang.
+GitHub profile README cuma bisa menampilkan gambar, teks, dan elemen `details`. Jadi bagian interaktifnya dipindah ke sini:
 
-Yang bisa kamu main di sini:
-
-|                                   |                                    |
-| :-------------------------------: | :---------------------------------: |
-| 🌀 **Puzzle Domain Expansion**      | Buka, pilih pintu, cari jalan keluar |
-| 📜 **Ujian Penyihir** (10 soal)     | Cek kuncinya, ada pembahasannya     |
-| 🎰 **Domain Gacha + Binding Vow**   | Ada di website, pakai energi kutukan |
-| ✅ **Checklist**                    | Dicentang, statusnya ikut tersimpan |
-| 🚪 **Rahasia**                      | Ada yang Closed, jangan dibuka seenak |
+| Bagian | Isi |
+|:------|:----|
+| Puzzle Domain Expansion | Tiga pintu, masing-masing dibuka lewat `details` bersarang |
+| Ujian Penyihir | 12 soal, kunci dan penjelasan disembunyikan per soal |
+| Checklist | Checkbox yang bisa diklik dan statusnya tersimpan di akun GitHub kamu |
+| Domain Expansion (web) | Domain Gacha, Ujian Penyihir interaktif, Binding Vow |
 
 </details>
 
-## 🌀 Puzzle: Bebaskan Diri dari Domain
+## Puzzle: Bebaskan Diri dari Domain
 
-> ⚠️ Geser scroll pelan-pelan, lalu klik **pintu** satu per satu.
-> Kunci jawabannya disembunyikan di dalam pintu yang kamu pilih.
+> Buka pintu satu per satu. Kunci jawaban ada di dalam pintu yang kamu pilih.
+> Polanya sama di semua pintu, dan alasan berada di bagian terakhir.
 
 <details open>
-<summary><b>🚪 Pintu 1 — "Ruang yang Terlalu Terang"</b></summary>
+<summary><b>Pintu 1 — Ruang yang Terlalu Terang</b></summary>
 <br />
 
-Kau melangkah masuk. Semua lampu neon menyala, dindingnya **putih**, dan di depanmu ada **4 saklar**. Cuma satu saklar yang menyalakan pintu keluar.
+Dinding putih, lampu neon menyala semua, di depanmu ada **empat saklar**. Cuma satu yang menyalakan pintu keluar. Energi kutukanmu tinggal 20, jadi salah sekali domain ini makin rapat.
 
-Energi kutukanmu tinggal **20**. Kalau salah, domain ini makin rapat.
-
-> 🔢 **Petunjuk:** *Saklarnya menyala dari kanan ke kiri: nomor 4, lalu 3, lalu 2, lalu 1.*
+> Petunjuk: saklarnya menyala dari kanan ke kiri, nomor 4 lalu 3 lalu 2 lalu 1.
 
 <details>
-<summary><b>💡 Nyalakan saklarnya</b></summary>
+<summary><b>Tekan saklar nomor 1</b></summary>
 <br />
 
-Kau tekan saklar **nomor 1**.
-
-> ❌ **SALAH.**
-> Yang menyala pertama adalah nomor **4**, bukan 1.
-> Energi kutukanmu turun, domain menyempit.
+> **Salah.** Yang menyala pertama adalah nomor 4.
+> Energi kutukanmu turun, Pintu 1 buntu.
 
 </details>
 
 <details>
-<summary><b>🔁 Coba lagi — pakai urutan yang benar</b></summary>
+<summary><b>Tekan sesuai urutan yang benar</b></summary>
 <br />
 
-Saklarnya harus ditekan **urutan 4 → 3 → 2 → 1**.
+Urutannya 4, 3, 2, 1.
 
-> ✅ **BETUL!**
-> Tapi sayangnya kau baru menyalakan saklar terakhir, dan pintunya ada di belakangmu.
-> Pintu 1 **buntu**.
+> **Betul urutannya.** Tapi pintunya ada di belakangmu, jadi Pintu 1 tetap buntu.
 
 </details>
 
 </details>
 
 <details>
-<summary><b>🚪 Pintu 2 — "Koridor Berjam"</b></summary>
+<summary><b>Pintu 2 — Koridor Berjam</b></summary>
 <br />
 
-Koridor ini berputar-putar. Di ujungnya ada **tiga arca kutukan**: mata, api, dan darah. Semuanya tampak utuh, tidak ada yang rusak.
-
-<details>
-<summary><b>🔍 Periksa artefaknya</b></summary>
-<br />
+Koridor berputar. Di ujungnya tiga arca kutukan: mata, api, dan darah. Ketiganya tampak utuh.
 
 Tertulis di tembok:
 
@@ -153,311 +131,270 @@ darah = 25
 ```
 
 <details>
-<summary><b>🧮 Hitung dulu totalnya</b></summary>
+<summary><b>Jumlahkan dulu</b></summary>
 <br />
 
 30 + 45 + 25 = **100**.
 
-> ✅ **Tepat 100 — semua artefak utuh.**
-> Tidak ada yang hilang, jadi ini bukan soal penjumlahan.
+> Tepat 100, semua artefak utuh. Berarti ini bukan soal penjumlahan.
 
 </details>
 
 <details>
-<summary><b>👁️ Sentuh arca "mata" (kira-kira penyebab) <i>jangan langsung klik</i></b></summary>
+<summary><b>Sentuh arca mata saja</b></summary>
 <br />
 
-> ❌ **SALAH.** Tidak ada artefak yang rusak, jadi tidak ada yang perlu dipulihkan.
-
-</details>
+> **Salah.** Tidak ada artefak yang rusak, jadi tidak ada yang perlu dipulihkan.
 
 </details>
 
 <details>
-<summary><b>🚪 Buka pintu dengan menyentuh ketiganya sekaligus</b></summary>
+<summary><b>Buka pintu dengan menyentuh ketiganya sekaligus</b></summary>
 <br />
 
-Kau sentuh mata, api, dan darah sekaligus.
-
-> ❌ **SALAH — ini tipuannya.**
-> Kalau semuanya memang utuh, berarti **tidak ada** yang perlu diaktifkan.
-> Energi kutukanmu tinggal **5**. Pintu 2 **buntu**.
+> **Salah, itu tipuannya.** Kalau semuanya utuh, berarti tidak ada yang perlu diaktifkan.
+> Energi kutukanmu tinggal 5. Pintu 2 buntu.
 
 </details>
 
 </details>
 
 <details>
-<summary><b>🚪 Pintu 3 — "Ruang Tenang" <i>(ini yang benar)</i></b></summary>
+<summary><b>Pintu 3 — Ruang Tenang</b></summary>
 <br />
 
-Tidak ada jebakan di sini. Hanya **sebuah tombol merah** dan tulisan di dinding:
+Tidak ada jebakan. Hanya satu tombol di tengah, dikelilingi sembilan lingkaran konsentris, dan tulisan di dinding:
 
-> *"Kalau kamu mau keluar, tekan tombolnya. Kalau salah, kamu menghabiskan sisa hidupmu di sini."*
-
-Tombol itu dikelilingi **9 lingkaran konsentris**.
+> "Kalau mau keluar, tekan tombolnya. Kalau salah, kamu menghabiskan sisa hidupmu di sini."
 
 <details>
-<summary><b>🔴 Tekan tombolnya</b></summary>
+<summary><b>Tekan tombolnya</b></summary>
 <br />
 
-> ✅ **KELUAR!**
-> Bukan lingkaran luarnya, tapi **pusatnya** yang kau tekan.
->
-> Alasannya: *penyihir selalu mengarahkannya ke titik yang paling dekat dengan inti.*
+> **Keluar.**
+> Bukan lingkaran luar yang kau tekan, tapi pusatnya.
 
 </details>
 
 <details>
-<summary><b>✅ Lihat seluruh jawabannya sekaligus</b></summary>
+<summary><b>Lihat seluruh jawabannya sekaligus</b></summary>
 <br />
 
-| Pintu | Jawaban | Kenapa |
+| Pintu | Jawaban | Alasan |
 |:-----:|:-------:|:-------|
-| 1 | Urutan **4 → 3 → 2 → 1** | Sapu dari kanan ke kiri, tapi pintu 1 sendiri buntu |
-| 2 | **Tidak ada** yang perlu disentuh | 30 + 45 + 25 = 100, semuanya utuh |
-| 3 | **Pusat** lingkaran | Titik paling dalam = pusat |
+| 1 | Urutan 4, 3, 2, 1 | Urutannya benar, tapi Pintu 1 memang buntu |
+| 2 | Tidak ada yang perlu disentuh | 30 + 45 + 25 = 100, semuanya utuh |
+| 3 | Pusat lingkaran | Titik paling dalam dari sembilan lingkaran itu |
 
-> 🧠 **Polanya sama di semua pintu:** penyihir bekerja **dari dalam ke luar**, dari yang paling dekat ke inti dulu.
-
-</details>
-
-<details>
-<summary><b>💭 Kenapa ada puzzle ini di portofolio?</b></summary>
-<br />
-
-Karena satu hal yang sering aku temui di kode:
-
-> **Over-engineering itu mahal. Yang sering menang justru solusi paling dekat.**
-
-Pintu 1 dan 2 itu jebakan — alat yang lebih rumit dari yang perlu. Pintu 3 cuma butuh **satu klik di tengah**, dan itu yang bikin berhasil.
-
-Di kode produksi juga begitu: jangan pakai yang paling keren kelihatan, pakai yang paling dekat dengan solving masalah.
-
-</details>
-
-</details>
-
-## 📜 Ujian Penyihir
-
-Jawab dulu di kepalamu, baru klik buat lihat kunci dan pembahasannya.
-
-> Versi interaktifnya (timer 20 detik per soal, skor, dan streak) ada di website: **🎰 Domain Expansion**.
-
-<details>
-<summary><b>1. Gojo Satoru dipanggil apa di dunia penyihir?</b></summary>
-<br />
-
-> **Jujutsu Kaisar** — julukan penyihir terkuat, diwariskan sejak era Sukuna.
+> Polanya sama: penyihir bekerja dari dalam ke luar, dari titik yang paling dekat ke inti dulu.
 
 </details>
 
 <details>
-<summary><b>2. Black Flash itu apa?</b></summary>
+<summary><b>Kenapa ada puzzle ini di portofolio?</b></summary>
 <br />
 
-> **Meletakkan energi kutukan 2,5 kali lipat dalam satu hantaman.**
-> Itu teknik Yuji Itadori. Hasilnya nyaris mustahil, dan cuma segelintir orang yang bisa melakukannya.
+Karena satu kebiasaan yang sering kutemu di kode:
+
+> **Over-engineering itu mahal. Solusi paling dekat dengan masalahnya justru yang menang.**
+
+Pintu 1 dan 2 adalah jebakan: alat yang lebih rumit dari yang perlu. Pintu 3 cuma butuh satu klik di tengah. Di produksi, aturan yang sama berlaku: jangan pakai yang paling keren kelihatan, pakai yang paling dekat dengan solving masalah.
+
+</details>
+
+</details>
+
+## Ujian Penyihir
+
+Jawab dulu di kepala, baru buka untuk melihat kunci dan pembahasannya. Versi interaktifnya ada di website: timer 20 detik per soal, skor, dan streak.
+
+<details>
+<summary><b>1. Satoru Gojo dijuluki apa?</b></summary>
+<br />
+
+> **Jujutsu Kaisar.** Julukan itu diwariskan sejak era Sukuna dan melekat pada Gojo sebagai penyihir terkuat.
 
 </details>
 
 <details>
-<summary><b>3. "Malevolent Shrine" adalah Domain Expansion milik siapa?</b></summary>
+<summary><b>2. Black Flash adalah apa?</b></summary>
 <br />
 
-> **Ryomen Sukuna** — domain tanpa barrier yang langsung memberi efek ke seluruh arena.
+> **Menekan energi kutukan 2,5 kali lipat dalam satu hantaman.** Teknik Yuji Itadori. Hasilnya nyaris mustahil, hanya segelintir penyihir yang bisa.
 
 </details>
 
 <details>
-<summary><b>4. Teknik bawaan Nobara Kugisaki apa?</b></summary>
+<summary><b>3. Malevolent Shrine adalah Domain Expansion siapa?</b></summary>
 <br />
 
-> **Straw Doll Technique** — menusuk boneka jerami dengan paku dan palu, sehingga korban ikut merasakan sakitnya dari jarak jauh.
+> **Ryomen Sukuna.** Domain tanpa barrier, jadi efeknya langsung terasa di seluruh arena tanpa penutup.
 
 </details>
 
 <details>
-<summary><b>5. Film "Jujutsu Kaisen 0" menceritakan siapa?</b></summary>
+<summary><b>4. Teknik bawaan Megumi Fushiguro apa?</b></summary>
 <br />
 
-> **Gojo muda dan Riko Amanai** — sekaligus penjelasan hubungan Yuji dengan Riko.
+> **Ten Shadows Technique** (十種影法術). Memanggil sepuluh shikigami lewat bayangan.
 
 </details>
 
 <details>
-<summary><b>6. Kenapa Toji Fushiguro dijuluki "Sorcerer Killer"?</b></summary>
+<summary><b>5. Teknik bawaan Nobara Kugisaki apa?</b></summary>
 <br />
 
-> Karena **sama sekali tidak punya energi kutukan**, tapi kecepatan dan kelihaian fisiknya membuat ia bisa membunuh penyihir.
+> **Straw Doll Technique.** Menusuk boneka jerami dengan paku dan palu, sehingga korban merasakan sakitnya dari jarak jauh.
 
 </details>
 
 <details>
-<summary><b>7. "Unlimited Void" itu Domain Expansion siapa?</b></summary>
+<summary><b>6. Film "Jujutsu Kaisen 0" menceritakan siapa?</b></summary>
 <br />
 
-> **Gojo Satoru** — membanjiri target dengan informasi tak hingga sampai gerak target lumpuh total.
+> **Gojo muda dan Riko Amanai**, sekaligus asal-usul hubungan Yuji dengan Riko.
 
 </details>
 
 <details>
-<summary><b>8. Teknik bawaan Toge Inumaki apa?</b></summary>
+<summary><b>7. Kenapa Toji Fushiguro dijuluki Sorcerer Killer?</b></summary>
 <br />
 
-> **Cursed Speech** — target yang mendengar kata-katanya bisa dipaksa menyeimbangkan diri, atau dibunuh.
+> Karena **sama sekali tidak punya energi kutukan**, tapi kecepatan dan kelihaian fisiknya membuat ia bisa mengalahkan penyihir.
 
 </details>
 
 <details>
-<summary><b>9. Kekuatan Makima di Chainsaw Man apa?</b></summary>
+<summary><b>8. Unlimited Void itu Domain Expansion siapa?</b></summary>
 <br />
 
-> **Kontrol** — memengaruhi pikiran orang supaya ia melihat dia sebagai kebenaran absolut.
+> **Gojo Satoru.** Membanjiri target dengan informasi tak hingga sampai gerak target ikut lumpuh.
 
 </details>
 
 <details>
-<summary><b>10. Inumaki atau Nobara, mana yang bisa "sekali jadi"?</b></summary>
+<summary><b>9. Teknik bawaan Toge Inumaki apa?</b></summary>
 <br />
 
-> **Inumaki** — Cursed Speech cukup satu kalimat untuk menyeimbangkan atau membunuh.
-> **Nobara** — butuh paku dan palu, tapi bisa menembus barrier dari jarak jauh.
+> **Cursed Speech** (術言術). Target yang mendengar kalimatnya bisa dipaksa menyeimbangkan energi kutukannya.
 
 </details>
 
 <details>
-<summary><b>🏆 Bonus: Kenapa dua-duanya penting?</b></summary>
+<summary><b>10. Kota tempat berlangsungnya film "Jujutsu Kaisen 0" adalah apa?</b></summary>
 <br />
 
-> Satu hasil instan tanpa persiapan (**Inumaki**), satu yang sudah disiapkan posisi (**Nobara**).
-> Di dunia nyata juga sama: kadang yang paling cepat menang, kadang yang paling siap.
-
-</details>
-
-## ✅ Checklist — Centang yang Sudah Kamu Coba
-
-Centang yang **sudah kamu coba**. Checkbox GitHub bisa diklik langsung dan statusnya **ikut tersimpan** di akun kamu.
-
-- [ ] 🎰 Main **Domain Gacha** di website
-- [ ] 📜 Selesaikan **Ujian Penyihir**, lalu ulangi buat ngalahin skor sendiri
-- [ ] ⛓ Coba **Binding Vow** (jackpot 50%, jeito tapi bikin nagih)
-- [ ] 🌀 Selesaikan **Puzzle Domain Expansion** di atas tanpa buntu
-- [ ] 👁️ Ketik **"domain"** di website untuk nemu easter egg
-- [ ] ⌨️ Coba **Konami**: `↑ ↑ ↓ ← → ← → B A`
-- [ ] 📂 Buka repo **mtoa_alr** — project andalanku
-- [ ] ⭐ Kasih **star** kalau kamu suka temanya
-
-## 🗳️ Pilih Karaktermu
-
-<details>
-<summary><b>🗳️ Kalau kamu jadi penyihir, jurus pertamamu apa?</b></summary>
-<br />
-
-| Pilihan | Alasan |
-|:-------:|:-------|
-| ⚡ **Blue** | Tendangan cepat, tipe serang cepat |
-| 🕸️ **Purple** | Damage besar sekali, tapi harus akurasi |
-| 🛡️ **Red** | Defense paling kuat, cocok kalau kamu mau ribut |
-| 🩸 **Straw Doll** | Jarak jauh, cuma perlu satu paku |
-| 📚 **Copy** | Minimal risiko, tapi juga minimal Balik |
-
-> Lilih dan vote di [Issues](https://github.com/Masbismaa/Masbismaa/issues/new) — hasil terbaiknya nanti kutulis di sini.
+> **Tokyo**, tahun 2006, saat Gojo masih murid SMA.
 
 </details>
 
 <details>
-<summary><b>⚡ Guess what: jurus Yuji itu teknik bawaan atau bahasa tubuh?</b></summary>
+<summary><b>11. Ryomen Sukuna dikenal sebagai apa?</b></summary>
 <br />
 
-> **Keduanya.** Yang "^Divergent Fist^" adalah bahasa tubuh, dan **Black Flash** muncul dari hantaman pertama yang dianggap mustahil itu.
+> **Raja Kutukan Keempat**, dari enam abad lalu.
 
 </details>
 
-## 🧿 Stack
+<details>
+<summary><b>12. Teknik yang dipakai Aoi Todo apa?</b></summary>
+<br />
+
+> **Boogie Woogie.** Memindahkan dua titik sekaligus lewat triage, jadi posisi korban ikut bergeser.
+
+</details>
+
+## Checklist
+
+Centang yang sudah kamu coba. Checkbox GitHub bisa diklik dan statusnya ikut tersimpan di akun kamu.
+
+- [ ] Main **Domain Gacha** di website
+- [ ] Selesaikan **Ujian Penyihir**, lalu ulangi buat banting skor sendiri
+- [ ] Coba **Binding Vow** (peluang 50 persen)
+- [ ] Selesaikan **Puzzle Domain Expansion** tanpa buntu
+- [ ] Ketik **domain** di website untuk menemukan easter egg
+- [ ] Coba **Konami**: `↑ ↑ ↓ ← → ← → B A`
+- [ ] Buka repo **mtoa_alr**, project andalan
+- [ ] Kasih **star** kalau kamu suka temanya
+
+## Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,php,laravel,html,css,js,tailwind,flutter,dart,postgres,mysql,mongodb,firebase,git,gitlab,powershell,vscode,postman&perline=10" />
-
+<img src="https://skillicons.dev/icons?i=python,django,flask,php,laravel,html,css,js,tailwind,flutter,dart,postgres,mysql,mongodb,firebase,git,gitlab,powershell,vscode,postman&perline=10" alt="Ikon teknologi yang dipakai" />
 </div>
 
 <details open>
-<summary><b>⚙️ Backend</b> &nbsp;<sub>Django · Flask · Laravel · CodeIgniter</sub></summary>
+<summary><b>Backend</b> &nbsp;<sub>Django · Flask · Laravel · CodeIgniter</sub></summary>
 <br />
 
-| Alat | Kenapa dipakai |
+| Alat | Alasan dipakai |
 |:----:|:---------------|
-| **Django** | Framework lengkap: ORM, admin, auth, dan proteksi keamanan bawaan. |
-| **Flask** | Ringan dan minimalis, cocok buat API yang disusun modular. |
-| **Laravel** | PHP modern: Eloquent, migration, routing, dan autentikasi siap pakai. |
-| **CodeIgniter** | Ringan, konfigurasi minim, buat aplikasi skala kecil sampai menengah. |
+| **Django** | Lengkap: ORM, admin, auth, dan proteksi bawaan |
+| **Flask** | Ringan dan minimalis, cocok untuk API modular |
+| **Laravel** | PHP modern: Eloquent, migration, routing, auth siap pakai |
+| **CodeIgniter** | Konfigurasi minim, untuk aplikasi skala kecil sampai menengah |
 
 </details>
 
 <details>
-<summary><b>📱 Frontend & Mobile</b> &nbsp;<sub>HTML/CSS/JS · Tailwind · Flutter</sub></summary>
+<summary><b>Frontend dan Mobile</b> &nbsp;<sub>HTML · CSS · JavaScript · Tailwind · Flutter</sub></summary>
 <br />
 
-| Alat | Kenapa dipakai |
+| Alat | Alasan dipakai |
 |:----:|:---------------|
-| **HTML / CSS / JS** | Tiga bahasa pondasi web: struktur, tampilan, dan interaksi. |
-| **Tailwind CSS** | Styling ditulis langsung di markup tanpa file CSS panjang. |
-| **Flutter** | Satu basis kode untuk Android, iOS, dan web. |
+| **HTML / CSS / JavaScript** | Tiga bahasa pondasi web: struktur, tampilan, interaksi |
+| **Tailwind CSS** | Styling ditulis langsung di markup tanpa file CSS panjang |
+| **Flutter** | Satu basis kode untuk Android, iOS, dan web |
 
 </details>
 
 <details>
-<summary><b>🗄️ Database</b> &nbsp;<sub>PostgreSQL · MySQL · MongoDB</sub></summary>
+<summary><b>Database</b> &nbsp;<sub>PostgreSQL · MySQL · MongoDB</sub></summary>
 <br />
 
-| Alat | Kenapa dipakai |
+| Alat | Alasan dipakai |
 |:----:|:---------------|
-| **PostgreSQL** | Relasional kuat: transaksi, relasi antar tabel, dan data JSON. |
-| **MySQL** | Cepat dan ringan, sangat umum dipakai di hosting. |
-| **MongoDB** | NoSQL berbasis dokumen, cocok untuk data JSON yang fleksibel. |
+| **PostgreSQL** | Transaksi dan relasi antar tabel kuat, plus dukungan JSON |
+| **MySQL** | Cepat dan ringan, umum dipakai di hosting |
+| **MongoDB** | NoSQL berbasis dokumen untuk data yang fleksibel |
 
 </details>
 
 <details>
-<summary><b>🛡️ Testing & Keamanan</b> &nbsp;<sub>Pytest · OWASP ZAP · RBAC · OTP</sub></summary>
+<summary><b>Testing dan Keamanan</b> &nbsp;<sub>Pytest · OWASP ZAP · RBAC · OTP</sub></summary>
 <br />
 
-| Alat | Kenapa dipakai |
+| Alat | Alasan dipakai |
 |:----:|:---------------|
-| **Pytest** | Test ditulis sebagai fungsi biasa dengan `assert`, singkat dan enak dibaca. |
-| **OWASP ZAP** | Scan celah web otomatis: XSS, SQL injection, dan lainnya. |
-| **RBAC** | Otorisasi berbasis role, supaya data Public dan Private bisa dipisah. |
-| **OTP** | Verifikasi dua langkah untuk login, password saja tidak cukup. |
-| **Audit Log** | Jejak siapa, kapan, mengubah apa. Immutable supaya bisa diaudit. |
+| **Pytest** | Test ditulis sebagai fungsi biasa dengan `assert` |
+| **OWASP ZAP** | Scan celah web otomatis: XSS, SQL injection, dan lainnya |
+| **RBAC** | Otorisasi berbasis role supaya data Public dan Private terpisah |
+| **OTP** | Verifikasi dua langkah, password saja tidak cukup |
+| **Audit log** | Jejak siapa, kapan, mengubah apa. Immutable supaya bisa diaudit |
 
 </details>
 
 <details>
-<summary><b>🛠️ Tools</b> &nbsp;<sub>Git · GitLab CI · PowerShell · VS Code</sub></summary>
+<summary><b>Tools</b> &nbsp;<sub>Git · GitLab CI · PowerShell · VS Code</sub></summary>
 <br />
 
-| Alat | Kenapa dipakai |
+| Alat | Alasan dipakai |
 |:----:|:---------------|
-| **Git** | Semua perubahan tercatat per branch, bisa kembali ke versi lama. |
-| **GitLab CI** | Build dan test otomatis setiap kali kode di-push. |
-| **PowerShell** | Shell sekaligus bahasa scripting Windows untuk otomasi. |
-| **VS Code** | Editor gratis dengan ribuan extension. |
+| **Git** | Semua perubahan tercatat per branch dan bisa dikembalikan |
+| **GitLab CI** | Build dan test otomatis setiap kali kode di-push |
+| **PowerShell** | Shell sekaligus bahasa scripting untuk otomasi di Windows |
+| **VS Code** | Editor gratis dengan ekstensi lengkap |
 
 </details>
 
-## 💥 Featured Project
-
-<div align="center">
+## Featured Project
 
 **ALR — Access Link Register** · [`mtoa_alr`](https://github.com/Masbismaa/mtoa_alr)
 
-</div>
+ALR menyatukan link akses ICT yang sebelumnya tersebar, lengkap dengan petunjuk dan kredensialnya.
 
-**ALR** menyatukan link akses ICT yang sebelumnya tersebar ke dalam satu web app, lengkap dengan petunjuk dan kredensialnya.
-
-<details>
-<summary><b>✨ Fitur utamanya</b></summary>
+<details open>
+<summary><b>Fitur utamanya</b></summary>
 <br />
 
 | Fitur | Keterangan |
@@ -469,63 +406,49 @@ Centang yang **sudah kamu coba**. Checkbox GitHub bisa diklik langsung dan statu
 | Search dan export | Cari berdasarkan keyword, lalu export ke **Excel** |
 | Workspace | Group dengan fitur **invite** anggota |
 | Audit log | Immutable: siapa, kapan, apa, nilai lama versus baru |
-| UI | Neobrutalism, sidebar, UI customizer, dark mode |
+| UI | Neobrutalism, sidebar, dark mode, dan UI customizer |
 
 </details>
 
 <details>
-<summary><b>🗂️ Struktur backend-nya</b></summary>
+<summary><b>Struktur backend</b></summary>
 <br />
 
 ```text
 app/
-├── routes/      endpoint & request handling
+├── routes/      endpoint dan request handling
 ├── services/    logika bisnis
 ├── models/      ORM (PascalCase singular)
-├── schemas/     validasi input/output
+├── schemas/     validasi input dan output
 ├── security/    auth, OTP, RBAC
 └── utils/       helper yang dipakai ulang
 tests/
-└── test_*.py    skenario positive & negative
+└── test_*.py    skenario positive dan negative
 ```
 
 </details>
 
 <details>
-<summary><b>🎮 Mau main yang interaktif? Buka website-nya</b></summary>
-<br />
-
-Di bagian **Domain Expansion** di website ini ada:
-
-- 🎰 **Domain Gacha** — mesin slot kutukan, energi kutukan pulih otomatis
-- 📜 **Ujian Penyihir** — 12 soal, 20 detik per soal, ada streak dan pembahasan
-- ⛓ **Binding Vow** — untung-rugi: menang energi dobel, kalah habis semua
-
-> [<b>▶ MASUK KE DOMAIN EXPANSION</b>](https://masbismaa.github.io/Masbismaa/#games)
-
-</details>
-
-<details>
-<summary><b>📦 Proyek lainnya</b> &nbsp;<sub>klik buat lihat</sub></summary>
+<summary><b>Proyek lainnya</b> &nbsp;<sub>klik untuk melihat</sub></summary>
 <br />
 
 | Kategori | Proyek | Keterangan | Stack |
 |:--------:|:------:|:-----------|:------|
-| Kantor | **Inventaris Aset IT** | Mencatat dan melacak aset IT kantor, dari perangkat sampai lisensi | Django |
-| Kantor | **Dashboard Laporan** | Merangkum data jadi rekap dan grafik untuk manajemen | Django |
-| Website | **Toko Online** | Menampilkan katalog produk dan mengelola pesanan | Laravel, MySQL |
-| Website | **Sistem Informasi** | Mengelola data instansi seperti sekolah atau klinik | Laravel, MySQL |
-| Mobile | **Aplikasi Kasir (POS)** | Mencatat transaksi penjualan langsung dari HP | Flutter |
-| Mobile | **Katalog dan Pemesanan** | Katalog produk dengan alur pememesanan | Flutter |
-| Mobile | **Pelaporan Lapangan** | Mengirim laporan kegiatan dari lapangan | Flutter |
-| Kuliah | **Skripsi: Inventaris Toko** | Mencatat stok barang kelontong, tersinkron real-time | Flutter, Firestore |
+| Kantor | Inventaris Aset IT | Mencatat dan melacak aset IT kantor, dari perangkat sampai lisensi | Django |
+| Kantor | Dashboard Laporan | Merangkum data jadi rekap dan grafik untuk manajemen | Django |
+| Website | Toko Online | Katalog produk dan pengelolaan pesanan | Laravel, MySQL |
+| Website | Sistem Informasi | Mengelola data instansi seperti sekolah atau klinik | Laravel, MySQL |
+| Mobile | Aplikasi Kasir (POS) | Mencatat transaksi penjualan langsung dari HP | Flutter |
+| Mobile | Katalog dan Pemesanan | Katalog produk dengan alur pememesanan | Flutter |
+| Mobile | Pelaporan Lapangan | Mengirim laporan kegiatan dari lapangan | Flutter |
+| Kuliah | Skripsi: Inventaris Toko | Stok barang kelontong tersinkron real-time | Flutter, Firestore |
 
-> Daftar lengkap ada di [<b>GitHub</b>](https://github.com/Masbismaa?tab=repositories).
+> Daftar lengkap ada di [GitHub](https://github.com/Masbismaa?tab=repositories).
 
 </details>
 
 <details>
-<summary><b>🔁 Contoh cara saya commit</b></summary>
+<summary><b>Contoh format commit</b></summary>
 <br />
 
 ```bash
@@ -537,23 +460,23 @@ git commit -m "test: tambah skenario negative login otp"
 
 </details>
 
-## 😀 Gradient
+## Statistik
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Masbismaa&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank=-A" width="49%" alt="Statistik GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masbismaa&layout=compact&theme=radical&hide_border=true" width="49%" alt="Bahasa paling sering dipakai" />
+<img src="https://github-readme-stats.vercel.app/api?username=Masbismaa&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank=-A" width="49%" alt="Statistik GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masbismaa&layout=compact&theme=transparent&hide_border=true" width="49%" alt="Bahasa paling sering dipakai" />
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api/repo?username=Masbismaa&repo=mtoa_alr&theme=radical&hide_border=true" width="70%" alt="Statistik repo mtoa_alr" />
+<img src="https://github-readme-stats.vercel.app/api/repo?username=Masbismaa&repo=mtoa_alr&theme=transparent&hide_border=true" width="70%" alt="Statistik repo mtoa_alr" />
 
 </div>
 
-## 🙋 Tanya Jawab Cepat
+## Tanya Jawab
 
 <details>
-<summary><b>❓ Tech stack-nya apa aja?</b></summary>
+<summary><b>Tech stack-nya apa saja?</b></summary>
 <br />
 
 > **Backend:** Django, Flask, Laravel, CodeIgniter, Python
@@ -565,64 +488,63 @@ git commit -m "test: tambah skenario negative login otp"
 </details>
 
 <details>
-<summary><b>❓ Kenapa username-nya "Masbismaa"?</b></summary>
+<summary><b>Kenapa username-nya Masbismaa?</b></summary>
 <br />
 
-> "Mas" untuk yang **mau lagi**, "Bism" dari nama Bimsa, dan "aa" biar gampang dipanggil.
+> "Mas" untuk yang mau lagi, "Bism" dari nama Bimsa, dan "aa" biar gampang dipanggil.
 
 </details>
 
 <details>
-<summary><b>❓ Website-nya pakai framework apa?</b></summary>
+<summary><b>Website-nya pakai framework apa?</b></summary>
 <br />
 
-> **Nggak.** HTML, CSS, dan JavaScript murni, tanpa framework, supaya ringan dan tema cursed energy-nya tetap jalan mulus.
-> Daftar tools lengkap ada di bagian [🧿 Stack](#-stack).
+> Tidak. HTML, CSS, dan JavaScript murni tanpa framework, supaya ringan.
+> Daftar tools lengkap ada di bagian [Stack](#stack).
 
 </details>
 
 <details>
-<summary><b>❓ Kenapa pakai OFFSET 0? <i>Belum ada yang nanya, tapi aku suka</i></b></summary>
+<summary><b>Kenapa pakai OFFSET 0?</b></summary>
 <br />
 
-> Karena tiap commit kecil itu harus **bergerak ke depan**. Gw izinkan commit besar asalkan pesannya jelas.
+> Karena tiap commit kecil harus bergerak maju. Commit besar saya izinkan asalkan pesannya jelas.
 
 </details>
 
 <details>
-<summary><b>🔑 Rahasia: commit message pertama aku</b></summary>
+<summary><b>Rahasia: commit message pertamaku</b></summary>
 <br />
 
 ```text
 init: setup repo pertama
 ```
 
-> Ya. itu saja.
-> Dari situ berubah jadi `feat:`, `fix:`, `docs:`, `test:` — disiplin sejak awal.
+> Ya, itu saja. Dari situ berubah jadi `feat:`, `fix:`, `docs:`, `test:`. Disiplin sejak awal.
 
 </details>
 
 <details>
-<summary><b>❓ Mau main yang beneran interaktif?</b></summary>
+<summary><b>Mau main yang interaktif?</b></summary>
 <br />
 
-> Semua game ada di website, lengkap dengan partikel cursed energy yang ngikutin kursor.
-> [<b>▶ masbismaa.github.io/Masbismaa</b>](https://masbismaa.github.io/Masbismaa/#games)
+> Tiga permainan ada di website: **Domain Gacha**, **Ujian Penyihir** interaktif, dan **Binding Vow**.
+> [<b>Buka Domain Expansion</b>](https://masbismaa.github.io/#games)
 
 </details>
 
-## 📬 Kirim Sinyal
+## Kontak
 
 <div align="center">
 
-<a href="mailto:moch.bismap@gmail.com"><img src="https://img.shields.io/badge/EMAIL-moch.bismap%40gmail.com-B3262E?style=for-the-badge&logo=gmail&logoColor=E879F9" /></a>
-<a href="https://www.instagram.com/bisma.prasetya_"><img src="https://img.shields.io/badge/INSTAGRAM-bisma.prasetya_-9D174D?style=for-the-badge&logo=instagram&logoColor=E879F9" /></a>
-<a href="https://github.com/Masbismaa"><img src="https://img.shields.io/badge/GITHUB-Masbismaa-6D28D9?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://masbismaa.github.io/Masbismaa/"><img src="https://img.shields.io/badge/WEBSITE-Domain%3A%20Develop-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+<a href="mailto:moch.bismap@gmail.com"><img src="https://img.shields.io/badge/email-moch.bismap%40gmail.com-0F172A?style=flat-square&logo=gmail" /></a>
+<a href="https://www.instagram.com/bisma.prasetya_"><img src="https://img.shields.io/badge/instagram-bisma.prasetya_-0F172A?style=flat-square&logo=instagram" /></a>
+<a href="https://github.com/Masbismaa"><img src="https://img.shields.io/badge/github-Masbismaa-0F172A?style=flat-square&logo=github" /></a>
+<a href="https://masbismaa.github.io/"><img src="https://img.shields.io/badge/website-masbismaa.github.io-8B6CFF?style=flat-square&logo=githubpages&logoColor=white" /></a>
 
 <br /><br />
 
-<a href="https://masbismaa.github.io/Masbismaa/#games"><img src="https://img.shields.io/badge/%E2%9A%A1%20Masuk%20Domain%20Expansion-8B5CF6?style=for-the-badge&logo=github&logoColor=white" height="34" /></a>
+<a href="https://masbismaa.github.io/#games"><img src="https://img.shields.io/badge/Masuk%20Domain%20Expansion-8B6CFF?style=flat-square&logo=github&logoColor=white" height="32" /></a>
 
 </div>
 
@@ -630,15 +552,10 @@ init: setup repo pertama
 
 <div align="center">
 
-```
-⚡  SPECIAL GRADE  ⚡
-KODING ITU KECIL. YANG BESAR ADALAH ENERGI YANG SELALU KEMBALI.
-```
-
-<sub>呪術師 · <b>MOCHAMMAD BISMA PRASETYA</b> · built with cursed energy</sub>
+<small>Special Grade · <b>MOCHAMMAD BISMA PRASETYA</b> · IT Developer at Spindo</small>
 
 <br />
 
-[↑ Kembali ke atas](#%E5%93%91-sop)
+<a href="#sorcerer-sop">Kembali ke atas</a>
 
 </div>
