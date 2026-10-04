@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>呪 MOCHAMMAD BISMA PRASETYA — Cursed Developer</title>
+<meta name="description" content="Portfolio interaktif bertema Jujutsu Kaisen: cursed energy, domain expansion, gacha kutukan, dan ujian penyihir. oleh Mochammad Bisma Prasetya." />
+<meta name="theme-color" content="#07050f" />
+<meta property="og:title" content="呪 Mochammad Bisma Prasetya — Cursed Developer" />
+<meta property="og:description" content="Full Stack Developer @ Spindo. Domain Expansion: Domain: Develop." />
+<meta property="og:type" content="website" />
+
+<link rel="icon" href="assets/svg/jjk-emblem.svg" type="image/svg+xml" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Zen+Antique&family=Noto+Sans+JP:wght@400;500;700;900&family=Chakra+Petch:wght@500;600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+
+<!-- ===================== BACKGROUND ===================== -->
+<div class="bg-layer" aria-hidden="true">
+  <div class="bg-sky"></div>
+  <div class="bg-rays"></div>
+  <div class="bg-grid"></div>
+  <div class="bg-noise"></div>
+  <div class="bg-scan"></div>
+</div>
+<canvas id="ce-canvas" aria-hidden="true"></canvas>
+
+<!-- ===================== NAV ===================== -->
+<header class="navbar" id="navbar">
+  <nav>
+    <a class="nav-logo" href="#hero">
+      <img src="assets/svg/jjk-emblem.svg" alt="" />
+      <b>MOCHAMMAD BISMA PRASETYA</b>
+      <span>CURSED DEVELOPER</span>
+    </a>
+    <button class="nav-toggle" id="navToggle" aria-label="Buka menu" aria-expanded="false">☰</button>
+    <div class="nav-links" id="navLinks">
+      <a href="#about">呪 SOP</a>
+      <a href="#skills">TECHNIQUE</a>
+      <a href="#games">DOMAIN</a>
+      <a href="#projects">BOUNTY</a>
+      <a href="#stats">GRADE</a>
+      <a href="#contact">CONTACT</a>
+      <a href="#games" class="nav-cta">▶ MAIN</a>
+    </div>
+  </nav>
+</header>
+
+<main>
+
+<!-- ===================== HERO ===================== -->
+<section class="hero" id="hero">
+  <img class="hero-bg" src="assets/svg/domain-circle.svg" alt="" />
+  <div class="hero-rings" aria-hidden="true"></div>
+  <div class="hero-inner">
+    <span class="hero-kicker">S1 Informatika · IT Developer @ Spindo</span>
+    <h1 class="hero-name">MOCHAMMAD<br />BISMA PRASETYA</h1>
+    <p class="hero-jp">呪 術 師</p>
+    <p class="hero-type"><span id="typed"></span><span class="caret">&nbsp;</span></p>
+
+    <div class="hero-tags">
+      <a href="https://github.com/Masbismaa/mtoa_alr" target="_blank" rel="noopener">⚡ mtoa_alr / ALR</a>
+      <a href="https://github.com/Masbismaa" target="_blank" rel="noopener">◈ 14 Repo Publik</a>
+      <a href="https://masbismaa.github.io/Masbismaa/" target="_blank" rel="noopener">⛩ Portfolio Interaktif</a>
+      <a href="mailto:moch.bismap@gmail.com">✉ moch.bismap@gmail.com</a>
+    </div>
+
+    <div class="hero-cta">
+      <button class="btn btn-primary" id="btnExpand"><span>⛩ Domain Expansion</span></button>
+      <a class="btn btn-ghost" href="#skills"><span>Teknik Sulitku</span></a>
+      <a class="btn btn-ghost" href="https://github.com/Masbismaa" target="_blank" rel="noopener"><span>Lihat Repo ↗</span></a>
+    </div>
+  </div>
+  <div class="hero-scroll">SCROLL <i></i> GUNAKAN KURSOR</div>
+</section>
+
+<!-- ===================== ABOUT ===================== -->
+<section class="section" id="about">
+  <div class="container">
+    <div class="section-head reveal">
+      <p class="section-jp">術 式</p>
+      <h2 class="section-title">SOP Developer</h2>
+      <div class="divider"><i></i><b>呪</b><i></i></div>
+      <p class="section-sub">Aku bukan penyihir, tapi cara kerjaku mirip penyihir:ukan tenang, buat jebakan, lalu GbR.</p>
+    </div>
+
+    <div class="about-grid">
+      <!-- code -->
+      <div class="card code-card reveal">
+        <div class="code-head"><i></i><i></i><i></i><span>sorcerer.py</span></div>
+<pre><code><span class="c-c"># cursed_developer.py</span>
+<span class="c-k">class</span> <span class="c-f">MochammadBismaPrasetya</span>:
+    name   = <span class="c-s">"Mochammad Bisma Prasetya"</span>
+    handle = <span class="c-s">"Masbismaa"</span>
+    grade  = <span class="c-s">"IT Developer @ Spindo"</span>
+    degree = <span class="c-s">"S1 Informatika"</span>
+    years  = <span class="c-n">3</span> - <span class="c-n">5</span>
+
+    # cursed techniques
+    backend  = [<span class="c-s">"Django"</span>, <span class="c-s">"Flask"</span>, <span class="c-s">"Laravel"</span>, <span class="c-s">"CodeIgniter"</span>]
+    mobile   = [<span class="c-s">"Flutter"</span>, <span class="c-s">"Dart"</span>, <span class="c-s">"Firebase"</span>]
+    database = [<span class="c-s">"PostgreSQL"</span>, <span class="c-s">"MySQL"</span>, <span class="c-s">"MongoDB"</span>]
+
+    # security vows
+    vows = [<span class="c-s">"OWASP ZAP"</span>, <span class="c-s">"RBAC"</span>, <span class="c-s">"Audit Log"</span>, <span class="c-s">"OTP"</span>, <span class="c-s">"Rate Limiting"</span>]
+
+    # binding vows of the brain
+    hobbies = [<span class="c-s">"anime"</span>, <span class="c-s">"game"</span>, <span class="c-s">"musik"</span>]
+    curses  = [<span class="c-s">"Docker &amp; Cloud"</span>, <span class="c-s">"PenTest"</span>, <span class="c-s">"Microservices"</span>, <span class="c-s">"AI / LLM"</span>]
+
+    <span class="c-k">def</span> <span class="c-f">build</span>(self, need):
+        <span class="c-k">return</span> <span class="c-s">"App yang jalan, aman, dan enak dipakai."</span>
+
+    <span class="c-f">bisma</span> = <span class="c-f">MochammadBismaPrasetya</span>()
+<span class="c-c"># print(bisma.build("portfolio ber cursed energy"))</span></code></pre>
+      </div>
+
+      <!-- aside -->
+      <div class="about-aside">
+        <div class="card aside-card reveal">
+          <img src="assets/svg/cursed-eye.svg" alt="Mata kutukan" />
+          <div>
+            <h4>Cara Kerjaku</h4>
+            <p>Backend Django/Flask/Laravel, mobile Flutter, plus scan keamanan OWASP ZAP. Job desk saya begini: <b style="color:var(--cyan)">kejar requirement</b> sampai deploy, sambil ngejepit celah XSS &amp; SQLi.</p>
+          </div>
+        </div>
+
+        <div class="card aside-card reveal">
+          <img src="assets/svg/ofuda.svg" alt="Ofuda" />
+          <div>
+            <h4>Cara Menjawab</h4>
+            <p>Specs lengkap dulu sebelum nulis kode. Satu masalah satu branch, commit message jelas (<code>feat:</code> / <code>fix:</code> / <code>test:</code>), dan selalu ada test untuk skenario negatif.</p>
+          </div>
+        </div>
+
+        <div class="card aside-card reveal">
+          <img src="assets/svg/seal.svg" alt="Segel kutukan" />
+          <div style="width:100%">
+            <h4>Data Singkat</h4>
+            <dl class="facts">
+              <div><dt>NAMA</dt><span>Mochammad Bisma Prasetya</span></div>
+              <div><dt>ROLE</dt><span>IT Developer @ Spindo</span></div>
+              <div><dt>PENGALAMAN</dt><span>3 – 5 tahun ngoding</span></div>
+              <div><dt>EDUKASI</dt><span>S1 Informatika</span></div>
+              <div><dt>STATUS</dt><span>Terbuka kerja remote</span></div>
+              <div><dt>DOMAIN</dt><span>呪 : Domain: Develop</span></div>
+            </dl>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===================== SKILLS ===================== -->
+<section class="section" id="skills">
+  <div class="container">
+    <div class="section-head reveal">
+      <p class="section-jp">術 式 目 録</p>
+      <h2 class="section-title">Cursed Technique</h2>
+      <div class="divider"><i></i><b>技</b><i></i></div>
+      <p class="section-sub">Empat jurus yang paling sering kupakai. Arahkan kursor ke pill untuk lihat detail.</p>
+    </div>
+
+    <div class="skills-grid">
+      <div class="card skill-card reveal">
+        <div class="skill-icon">⚙️</div>
+        <h3>Black Flash Backend</h3>
+        <p class="meta">SULIT · 4 JURUS</p>
+        <div class="pill-grid">
+          <span class="pill" title="ORM, admin, auth bawaan">Django</span>
+          <span class="pill" title="Micro framework, modular">Flask</span>
+          <span class="pill" title="Eloquent, migration, artisan">Laravel</span>
+          <span class="pill" title="Ringan, konfigurasi minim">CodeIgniter</span>
+          <span class="pill" title="API & service">FastAPI</span>
+          <span class="pill" title="Automation & script">Python</span>
+        </div>
+        <div class="skill-meter"><div><span>DOMAIN EXPANSION</span><span>92%</span></div><div class="bar"><i data-w="92"></i></div></div>
+      </div>
+
+      <div class="card skill-card reveal">
+        <div class="skill-icon">📱</div>
+        <h3>Binding Vow Mobile</h3>
+        <p class="meta">SULIT · 3 JURUS</p>
+        <div class="pill-grid">
+          <span class="pill" title="Android, iOS, web">Flutter</span>
+          <span class="pill" title="Bahasa Dart">Dart</span>
+          <span class="pill" title="Realtime & auth">Firebase</span>
+          <span class="pill" title="PWA & SPA">HTML/CSS/JS</span>
+          <span class="pill" title="Utility CSS">Tailwind</span>
+        </div>
+        <div class="skill-meter"><div><span>CURSED FLUX</span><span>85%</span></div><div class="bar"><i data-w="85"></i></div></div>
+      </div>
+
+      <div class="card skill-card reveal">
+        <div class="skill-icon">🗄️</div>
+        <h3>Inverted Spear of Data</h3>
+        <p class="meta">SULIT · 4 JURUS</p>
+        <div class="pill-grid">
+          <span class="pill" title="Relational, transaksi, relasi">PostgreSQL</span>
+          <span class="pill" title="Ringan, umum di hosting">MySQL</span>
+          <span class="pill" title="NoSQL dokumen">MongoDB</span>
+          <span class="pill" title="Query & optimasi">SQL Query</span>
+          <span class="pill" title="ORM & query builder">Eloquent / ORM</span>
+        </div>
+        <div class="skill-meter"><div><span>PURGE</span><span>88%</span></div><div class="bar"><i data-w="88"></i></div></div>
+      </div>
+
+      <div class="card skill-card reveal">
+        <div class="skill-icon">🛡️</div>
+        <h3>Hollow Purple Security</h3>
+        <p class="meta">SULIT · 5 JURUS</p>
+        <div class="pill-grid">
+          <span class="pill" title="Scan celah web">OWASP ZAP</span>
+          <span class="pill" title="Otorisasi berbasis role">RBAC</span>
+          <span class="pill" title="Jejak perubahan data">Audit Log</span>
+          <span class="pill" title="Verifikasi 2 langkah">OTP</span>
+          <span class="pill" title="Anti brute force">Rate Limiting</span>
+          <span class="pill" title="Pengujian aplikasi">Pytest</span>
+        </div>
+        <div class="skill-meter"><div><span>HOLLOW PURPLE</span><span>90%</span></div><div class="bar"><i data-w="90"></i></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===================== GAMES ===================== -->
+<section class="section" id="games">
+  <div class="container">
+    <div class="section-head reveal">
+      <p class="section-jp">領 地 展 開</p>
+      <h2 class="section-title">Domain Expansion</h2>
+      <div class="divider"><i></i><b>遊</b><i></i></div>
+      <p class="section-sub">Area ini bebas dipakai — ada mesin gacha kutukan &amp; ujian penyihir. Kumpulkan energi kutukanmu, lalu coba.</p>
+    </div>
+
+    <div class="card games-wrap reveal">
+      <div class="game-tabs" role="tablist">
+        <button class="game-tab active" data-tab="gacha" role="tab">🎰 Domain Gacha</button>
+        <button class="game-tab" data-tab="exam" role="tab">📜 Ujian Penyihir</button>
+        <button class="game-tab" data-tab="vow" role="tab">⛓ Binding Vow</button>
+      </div>
+
+      <!-- ============ GACHA ============ -->
+      <div class="game-panel active" id="panel-gacha">
+        <div class="game-hud">
+          <div class="hud-box energy"><small>CURSED ENERGY</small><strong id="gEnergy">100</strong></div>
+          <div class="hud-box"><small>BIAYA SPIN</small><strong>20</strong></div>
+          <div class="hud-box"><small>SPIN</small><strong id="gSpins">0</strong></div>
+          <div class="hud-box"><small>BEST CE</small><strong id="gBest">0</strong></div>
+          <div class="hud-box"><small>DOMAIN</small><strong id="gDomains">0</strong></div>
+        </div>
+        <div class="energy-bar"><i id="gEnergyBar"></i></div>
+
+        <div class="slot-stage">
+          <div class="reels" id="reels">
+            <div class="reel" data-i="0">👁️</div>
+            <div class="reel" data-i="1">🔥</div>
+            <div class="reel" data-i="2">⚡</div>
+          </div>
+          <div class="gacha-result" id="gachaResult">
+            <div>
+              <span class="tier tier-common">MENUNGGU</span>
+              <p class="result-title">Tekan SPIN untuk memanggil kutukan</p>
+              <p class="result-sub">Cursed energy pulih otomatis +1 setiap 1,2 detik.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="slot-controls" style="margin-top:1.4rem">
+          <button class="btn btn-primary" id="btnSpin"><span>🎰 SPIN</span></button>
+          <button class="btn btn-ghost" id="btnAuto"><span>⚡ AUTO ×10</span></button>
+          <button class="btn btn-ghost" id="btnResetG"><span>♻️ Reset</span></button>
+        </div>
+
+        <div class="symbol-key" id="symbolKey"></div>
+        <div class="gacha-log" id="gachaLog"></div>
+      </div>
+
+      <!-- ============ QUIZ ============ -->
+      <div class="game-panel" id="panel-exam">
+        <div class="game-hud">
+          <div class="hud-box"><small>SOAL</small><strong id="qIndex">1/12</strong></div>
+          <div class="hud-box"><small>SKOR</small><strong id="qScore">0</strong></div>
+          <div class="hud-box"><small>STREAK</small><strong id="qStreak">0</strong></div>
+          <div class="hud-box"><small>BENAR</small><strong id="qCorrect">0</strong></div>
+        </div>
+
+        <div class="quiz-top">
+          <div class="timer-ring" id="qRing" title="Waktu tersisa">
+            <svg width="56" height="56"><circle class="bgc" cx="28" cy="28" r="24"></circle><circle class="fgc" id="qArc" cx="28" cy="28" r="24" stroke-dasharray="150.8" stroke-dashoffset="0"></circle></svg>
+            <b id="qTime">20</b>
+          </div>
+          <div class="q-progress"><div class="bar"><i id="qBar" style="width:0%"></i></div></div>
+        </div>
+
+        <div id="quizStart" style="text-align:center;padding:1.4rem 0">
+          <p class="result-title">Ujian Penyihir: Seberapa kuat energi kutukanmu?</p>
+          <p class="result-sub">12 soal • 20 detik per soal • skor 10 per jawaban benar + bonus streak. Ada kunci jawaban &amp; pembahasannya.</p>
+          <button class="btn btn-primary" id="btnStartQuiz" style="margin-top:1.2rem"><span>📜 Mulai Ujian</span></button>
+        </div>
+
+        <div id="quizPlay" style="display:none">
+          <h3 class="q-text" id="qText">—</h3>
+          <div class="q-options" id="qOptions"></div>
+          <div class="quiz-foot">
+            <span class="streak" id="qStreakTag">STREAK 0</span>
+            <button class="btn btn-primary" id="btnNext" disabled><span>Next →</span></button>
+          </div>
+        </div>
+
+        <div id="quizEnd" style="display:none"></div>
+      </div>
+
+      <!-- ============ BINDING VOW ============ -->
+      <div class="game-panel" id="panel-vow">
+        <div class="game-hud">
+          <div class="hud-box"><small>VOW</small><strong id="vCount">0</strong></div>
+          <div class="hud-box"><small>MENANG</small><strong id="vWin">0</strong></div>
+          <div class="hud-box"><small>KALAH</small><strong id="vLose">0</strong></div>
+          <div class="hud-box"><small>RISIKO</small><strong>50%</strong></div>
+        </div>
+
+        <div style="text-align:center;padding:.6rem 0 1.2rem">
+          <img src="assets/svg/binding-vow.svg" alt="Rantai Sumpah Binding" style="width:120px;margin:0 auto 1rem;animation:floaty 3s ease-in-out infinite" />
+          <p class="result-title">Sumpah Binding</p>
+          <p class="result-sub">Dua sisi sumpah: <b style="color:var(--gold)">menang</b> = energi kutukan dikali dua, <b style="color:var(--crimson)">kalah</b> = semua energi lenyap dalam sekali putar.</p>
+        </div>
+
+        <div class="slot-controls">
+          <button class="btn btn-primary" id="btnVow"><span>⛓ Ikat Sumpah</span></button>
+          <button class="btn btn-ghost" id="btnResetV"><span>♻️ Putus Rantai</span></button>
+        </div>
+        <div class="gacha-result" id="vowResult">
+          <div><span class="tier tier-common">BELUM TERIKAT</span><p class="result-sub">Belum ada sumpah yang diikat.</p></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===================== PROJECTS ===================== -->
+<section class="section" id="projects">
+  <div class="container">
+    <div class="section-head reveal">
+      <p class="section-jp">懸 賞</p>
+      <h2 class="section-title">Bounty Board</h2>
+      <div class="divider"><i></i><b>懸</b><i></i></div>
+      <p class="section-sub">Muat langsung dari GitHub API. Kalau gagal, tetap ada kartu fallback di atas.</p>
+    </div>
+
+    <div class="projects-grid" id="projectsGrid">
+      <div class="card project-card project-featured">
+        <span class="lang">⚡ Featured</span>
+        <h3>mtoa_alr — Access Link Register</h3>
+        <p>Web app yang menyatukan link akses ICT beserta petunjuk &amp; kredensialnya: login 2 langkah (email + OTP), role Admin / User Entry, data Public / Private, form dinamis per kategori, search &amp; export Excel, workspace + invite, dan audit log immutable. Simulator aturan aksesnya bisa dicoba langsung di halaman ini.</p>
+        <div class="project-meta"><span>🐍 <b>Python</b></span><span>★ <b>1</b></span><span>📄 Backend + ORM + Auth + RBAC</span></div>
+        <a class="btn btn-ghost" style="justify-self:start" href="https://github.com/Masbismaa/mtoa_alr" target="_blank" rel="noopener"><span>Buka Repo ↗</span></a>
+      </div>
+    </div>
+    <p class="projects-note" style="text-align:center;color:var(--text-mute);margin-top:1.4rem;font-family:var(--font-hud);font-size:.72rem;letter-spacing:1.6px">
+      <span id="projectsNote">memuat repo…</span>
+    </p>
+  </div>
+</section>
+
+<!-- ===================== STATS ===================== -->
+<section class="section" id="stats">
+  <div class="container">
+    <div class="section-head reveal">
+      <p class="section-jp">階 級 評 価</p>
+      <h2 class="section-title">Grade Penyihir</h2>
+      <div class="divider"><i></i><b>級</b><i></i></div>
+      <p class="section-sub">Angka diambil langsung dari GitHub. Naik kelas itu kerja keras, bukan bakat.</p>
+    </div>
+
+    <div class="stats-grid">
+      <div class="card stat-card"><strong data-count="0" id="stRepos">0</strong><small>REPO PUBLIK</small></div>
+      <div class="card stat-card"><strong data-count="0" id="stFollowers">0</strong><small>FOLLOWERS</small></div>
+      <div class="card stat-card"><strong data-count="0" id="stStars">0</strong><small>TOTAL STARS</small></div>
+      <div class="card stat-card"><strong data-count="0" id="stForks">0</strong><small>FORKS</small></div>
+      <div class="card stat-card"><strong>3-5</strong><small>TAHUN PENGALAMAN</small></div>
+    </div>
+
+    <div class="grade-row reveal">
+      <div class="grade" data-g="4"><b>GRADE 4</b><small>Belum sightung</small></div>
+      <div class="grade" data-g="3"><b>GRADE 3</b><small>Asisten penyihir</small></div>
+      <div class="grade" data-g="2"><b>GRADE 2</b><small>Penyihir · Domain Parsial</small></div>
+      <div class="grade" data-g="1"><b>GRADE 1</b><small>IT Developer @ Spindo</small></div>
+      <div class="grade" data-g="0"><b>SPECIAL GRADE</b><small>Full Stack + Security</small></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===================== CONTACT ===================== -->
+<section class="section" id="contact">
+  <div class="container">
+    <div class="section-head reveal">
+      <p class="section-jp">連 絡</p>
+      <h2 class="section-title">Kirim Sinyal</h2>
+      <div class="divider"><i></i><b>連</b><i></i></div>
+      <p class="section-sub">Butuh backend, mobile, atau audit keamanan?“Kirim sinyal” langsung tembus ke saya.</p>
+    </div>
+
+    <div class="contact-grid">
+      <a class="card contact-card reveal" href="mailto:moch.bismap@gmail.com" id="copyMail">
+        <img src="assets/svg/seal.svg" alt="" />
+        <div><h4>EMAIL</h4><p>moch.bismap@gmail.com</p></div>
+      </a>
+      <a class="card contact-card reveal" href="https://www.instagram.com/bisma.prasetya_" target="_blank" rel="noopener">
+        <img src="assets/svg/jjk-emblem.svg" alt="" />
+        <div><h4>INSTAGRAM</h4><p>@bisma.prasetya_</p></div>
+      </a>
+      <a class="card contact-card reveal" href="https://github.com/Masbismaa" target="_blank" rel="noopener">
+        <img src="assets/svg/cursed-eye.svg" alt="" />
+        <div><h4>GITHUB</h4><p>@Masbismaa</p></div>
+      </a>
+      <a class="card contact-card reveal" href="https://masbismaa.github.io/Masbismaa/" target="_blank" rel="noopener">
+        <img src="assets/svg/domain-circle.svg" alt="" style="border-radius:50%" />
+        <div><h4>DOMAIN</h4><p>masbismaa.github.io</p></div>
+      </a>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<!-- ===================== FOOTER ===================== -->
+<footer class="footer">
+  <div class="sig">
+    <img src="assets/svg/ofuda.svg" alt="" />
+    <img src="assets/svg/jjk-emblem.svg" alt="" />
+    <img src="assets/svg/binding-vow.svg" alt="" />
+  </div>
+  <p class="quote">“Yang penting energimu cukup untuk melampaui batas.”</p>
+  <p class="jp">結 界</p>
+  <p class="copy">© <span id="year">2026</span> MOCHAMMAD BISMA PRASETYA · BUILT WITH CURSED ENERGY</p>
+</footer>
+
+<!-- domain expansion overlay -->
+<div class="domain-overlay" id="domainOverlay" aria-hidden="true">
+  <span class="ring"></span><span class="ring"></span><span class="ring"></span>
+  <h3>DOMAIN EXPANSION</h3>
+  <p id="domainSub">呪 領 地 展 開</p>
+</div>
+
+<div class="toast-stack" id="toastStack" aria-live="polite"></div>
+
+<script src="assets/js/main.js" defer></script>
+<script src="assets/js/games.js" defer></script>
+</body>
+</html>

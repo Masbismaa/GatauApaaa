@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Emblem mata kutukan">
+  <defs>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f5d0fe"/>
+      <stop offset="35%" stop-color="#c084fc"/>
+      <stop offset="70%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#4c1d95"/>
+    </radialGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f472b6"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="9" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <g fill="none" stroke="url(#edge)" stroke-width="2" opacity=".55">
+    <circle cx="200" cy="200" r="192"/>
+    <circle cx="200" cy="200" r="176" stroke-dasharray="4 12"/>
+    <circle cx="200" cy="200" r="150" stroke-dasharray="2 16"/>
+  </g>
+
+  <g fill="none" stroke="url(#edge)" stroke-width="1.5" opacity=".45">
+    <path d="M200 8 L382 296 L18 296 Z"/>
+    <path d="M200 392 L18 104 L382 104 Z"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <path d="M60 200 Q200 74 340 200 Q200 326 60 200 Z" fill="#1b1033" stroke="url(#edge)" stroke-width="7"/>
+  </g>
+  <g filter="url(#glow)">
+    <circle cx="200" cy="200" r="66" fill="url(#core)"/>
+  </g>
+  <g fill="#1a0b2e" opacity=".9">
+    <ellipse cx="200" cy="200" rx="13" ry="52"/>
+  </g>
+  <g stroke="#f5d0fe" stroke-width="3" stroke-linecap="round" opacity=".8">
+    <path d="M118 176 Q200 118 282 176" fill="none"/>
+    <path d="M118 224 Q200 282 282 224" fill="none"/>
+  </g>
+  <text x="200" y="374" text-anchor="middle" font-family="'Noto Serif JP',serif" font-size="26" fill="#a78bfa" letter-spacing="8">呪</text>
+</svg>
