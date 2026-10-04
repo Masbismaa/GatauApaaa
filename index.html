@@ -48,6 +48,7 @@
 <symbol id="i-document" viewBox="0 0 24 24"><path d="M13.4 3.4H7.2a2 2 0 0 0-2 2v13.2a2 2 0 0 0 2 2h9.6a2 2 0 0 0 2-2V9l-5.4-5.6Z"/><path d="M13.4 3.4V9h5.4"/></symbol>
 <symbol id="i-smartphone" viewBox="0 0 24 24"><rect x="6.6" y="2.6" width="10.8" height="18.8" rx="2.6"/><path d="M10.4 18.4h3.2"/></symbol>
 <symbol id="i-layers" viewBox="0 0 24 24"><path d="M12 3.2 21 8l-9 4.8L3 8l9-4.8Z"/><path d="M3 12.4 12 17.2l9-4.8M3 16.6 12 21.4l9-4.8"/></symbol>
+<symbol id="i-image" viewBox="0 0 24 24"><rect x="2.8" y="4.2" width="18.4" height="15.6"/><circle cx="8.6" cy="9.6" r="1.9"/><path d="m3.4 17.6 4.8-5 3.4 3.4 3-2.8 6.2 5.4"/></symbol>
 <symbol id="i-users" viewBox="0 0 24 24"><circle cx="9" cy="8.4" r="3.4"/><path d="M2.8 20a6.2 6.2 0 0 1 12.4 0"/><path d="M16 5.4a3.4 3.4 0 0 1 0 6.6M17.4 14.4a6.2 6.2 0 0 1 3.8 5.6"/></symbol>
 <symbol id="i-chart" viewBox="0 0 24 24"><path d="M4 20V4M4 20h16"/><path d="M8.4 16.4v-3.8M12 16.4V8.2M15.6 16.4v-5.6"/></symbol>
 <symbol id="i-target" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.7"/><circle cx="12" cy="12" r="4.6"/><circle cx="12" cy="12" r="1.05" fill="currentColor" stroke="none"/></symbol>
@@ -58,7 +59,7 @@
 </defs></svg>
 
 <!-- ================= BACKGROUND ================= -->
-<div class="bg" aria-hidden="true"><div class="bg-grid"></div></div>
+<div class="bg" aria-hidden="true"></div>
 <canvas id="fx-canvas" aria-hidden="true"></canvas>
 
 <!-- ================= NAV ================= -->
@@ -74,6 +75,7 @@
     <nav class="nav-list" id="navList">
       <a href="#about">Tentang</a>
       <a href="#skills">Keahlian</a>
+      <a href="#gallery">Galeri</a>
       <a href="#games">Arena</a>
       <a href="#projects">Proyek</a>
       <a href="#stats">Statistik</a>
@@ -87,36 +89,47 @@
 
 <!-- ================= HERO ================= -->
 <section class="hero">
+  <span class="kanji" aria-hidden="true">呪術廻戦</span>
   <div class="hero-in">
-    <div class="hero-top">
-      <svg class="ic ic-32 mark" aria-hidden="true"><use href="#i-target"/></svg>
-      <p class="hero-label">S1 Informatika &middot; <b>IT Developer @ Spindo</b></p>
+    <div class="hero-text">
+      <div class="hero-top">
+        <p class="hero-label">S1 Informatika &middot; <b>IT Developer @ Spindo</b></p>
+      </div>
+
+      <h1><span class="stroke">Mochammad</span><br /><span class="fill">Bisma</span> Prasetya</h1>
+
+      <p class="hero-sub">
+        Full stack developer, pengalaman <b>3 sampai 5 tahun</b>. Backend Python dan PHP,
+        aplikasi mobile Flutter, sampai lapisan keamanannya.
+      </p>
+      <p class="typed"><span id="typed"></span><span class="cur"></span></p>
+
+      <div class="hero-cta">
+        <a class="btn btn-primary" href="#projects">
+          Lihat proyek
+          <svg class="ic ic-18" aria-hidden="true"><use href="#i-arrow-right"/></svg>
+        </a>
+        <a class="btn btn-blood" href="#games">
+          <svg class="ic ic-18" aria-hidden="true"><use href="#i-play"/></svg>
+          Domain Expansion
+        </a>
+      </div>
+
+      <div class="hero-meta">
+        <div><b>4</b><span>framework backend</span></div>
+        <div><b>7</b><span>frontend &amp; mobile</span></div>
+        <div><b>3</b><span>jenis database</span></div>
+        <div><b>6</b><span>praktik keamanan</span></div>
+      </div>
     </div>
 
-    <h1>Mochammad<br /><span class="dim">Bisma Prasetya</span></h1>
-
-    <p class="hero-sub">
-      Full stack developer dengan pengalaman <b>3 sampai 5 tahun</b>. Membangun backend
-      Python dan PHP, aplikasi mobile, sampai lapisan keamanannya.
-    </p>
-    <p class="typed"><span id="typed"></span><span class="cur"></span></p>
-
-    <div class="hero-cta">
-      <a class="btn btn-primary" href="#projects">
-        Lihat proyek
-        <svg class="ic ic-18" aria-hidden="true"><use href="#i-arrow-right"/></svg>
-      </a>
-      <a class="btn" href="#games">
-        <svg class="ic ic-18" aria-hidden="true"><use href="#i-play"/></svg>
-        Main di arena
-      </a>
-    </div>
-
-    <div class="hero-meta">
-      <div><b>4</b><span>framework backend</span></div>
-      <div><b>7</b><span>frontend &amp; mobile</span></div>
-      <div><b>3</b><span>jenis database</span></div>
-      <div><b>6</b><span>praktik keamanan</span></div>
+    <div class="hero-art">
+      <figure class="art" data-art="assets/img/hero.jpg">
+        <img src="assets/img/hero.jpg" alt="Ilustrasi Ryomen Sukuna" loading="eager" decoding="async" />
+        <figcaption class="art-label">Fan art &middot; Sukuna</figcaption>
+      </figure>
+      <span class="stamp">Special Grade</span>
+      <span class="rank-tag">呪術師</span>
     </div>
   </div>
 </section>
@@ -125,6 +138,7 @@
 <section class="section" id="about">
   <div class="container">
     <div class="shead reveal">
+      <span class="snum" aria-hidden="true">01</span>
       <p class="kicker"><svg class="ic" aria-hidden="true"><use href="#i-terminal"/></svg> Tentang</p>
       <h2>Cara saya bekerja</h2>
       <p>Specs lengkap dulu sebelum nulis kode. Satu masalah satu branch, commit message jelas, dan test untuk skenario negatif.</p>
@@ -133,7 +147,6 @@
     <div class="about">
       <div class="code reveal">
         <div class="code-bar">
-          <span class="dots"><i></i><i></i><i></i></span>
           <span class="name">sorcerer.py</span>
         </div>
 <pre><code><span class="c"># ringkasan, bukan CV lengkap</span>
@@ -182,6 +195,7 @@
 <section class="section" id="skills">
   <div class="container">
     <div class="shead reveal">
+      <span class="snum" aria-hidden="true">02</span>
       <p class="kicker"><svg class="ic" aria-hidden="true"><use href="#i-layers"/></svg> Keahliaan</p>
       <h2>Yang biasa saya pakai</h2>
       <p>Empat kelompok ini yang paling sering dipakai di pekerjaan harian.</p>
@@ -248,15 +262,46 @@
 </section>
 
 <!-- ================= ARENA / GAMES ================= -->
+<section class="section" id="gallery">
+  <div class="container">
+    <div class="shead reveal">
+      <span class="snum" aria-hidden="true">03</span>
+      <p class="kicker"><svg class="ic" aria-hidden="true"><use href="#i-image"/></svg> Galeri</p>
+      <h2>Koleksi visual</h2>
+      <p>Kumpulan fan art Ryomen Sukuna yang jadi identitas visual halaman ini. Semua bukan aset resmi, hanya penghias.</p>
+    </div>
+
+    <div class="gallery">
+      <figure class="art g-main reveal" data-art="assets/img/sukuna-2.jpg">
+        <img src="assets/img/sukuna-2.jpg" alt="Fan art Ryomen Sukuna" loading="lazy" decoding="async" />
+        <figcaption class="art-label">Sukuna &middot; 01</figcaption>
+      </figure>
+      <figure class="art reveal" data-art="assets/img/sukuna-1.jpg">
+        <img src="assets/img/sukuna-1.jpg" alt="Fan art Ryomen Sukuna" loading="lazy" decoding="async" />
+        <figcaption class="art-label">Sukuna &middot; 02</figcaption>
+      </figure>
+      <figure class="art reveal" data-art="assets/img/sukuna-team.jpg">
+        <img src="assets/img/sukuna-team.jpg" alt="Fan art tim penyihir" loading="lazy" decoding="async" />
+        <figcaption class="art-label">Tim &middot; 03</figcaption>
+      </figure>
+      <figure class="art reveal" data-art="assets/img/sukuna-wallpaper.jpg">
+        <img src="assets/img/sukuna-wallpaper.jpg" alt="Wallpaper Ryomen Sukuna" loading="lazy" decoding="async" />
+        <figcaption class="art-label">Wallpaper &middot; 04</figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
 <section class="section" id="games">
   <div class="container">
     <div class="shead reveal">
+      <span class="snum" aria-hidden="true">04</span>
       <p class="kicker"><svg class="ic" aria-hidden="true"><use href="#i-target"/></svg> Arena</p>
       <h2>Domain Expansion</h2>
       <p>Tiga permainan ringan. Skor dan rekor disimpan di browser kamu, jadi bisa dilanjutkan kapan saja.</p>
     </div>
 
-    <div class="arena reveal">
+<div class="arena reveal">
       <div class="arena-tabs" role="tablist">
         <button role="tab" id="tab-gacha" aria-controls="p-gacha" aria-selected="true">
           <svg class="ic" aria-hidden="true"><use href="#i-dice"/></svg> Domain Gacha
@@ -396,6 +441,7 @@
 <section class="section" id="projects">
   <div class="container">
     <div class="shead reveal">
+      <span class="snum" aria-hidden="true">05</span>
       <p class="kicker"><svg class="ic" aria-hidden="true"><use href="#i-document"/></svg> Proyek</p>
       <h2>Yang pernah dikerjakan</h2>
       <p>Dipuat langsung dari GitHub API. Kartu pertama adalah project andalan.</p>
@@ -417,6 +463,7 @@
 <section class="section" id="stats">
   <div class="container">
     <div class="shead reveal">
+      <span class="snum" aria-hidden="true">06</span>
       <p class="kicker"><svg class="ic" aria-hidden="true"><use href="#i-chart"/></svg> Statistik</p>
       <h2>Angka dan peringkat</h2>
       <p>Data diambil dari GitHub. Peringkat pakai istilah dari Jujutsu Kaisen karena itu tema halaman ini.</p>
@@ -443,6 +490,7 @@
 <section class="section" id="contact">
   <div class="container">
     <div class="shead reveal">
+      <span class="snum" aria-hidden="true">07</span>
       <p class="kicker"><svg class="ic" aria-hidden="true"><use href="#i-mail"/></svg> Kontak</p>
       <h2>Hubungi</h2>
       <p>Butuh backend, mobile, atau audit keamanan aplikasi, kirim pesan dan sebutkan kebutuhannya.</p>
@@ -475,6 +523,7 @@
 <footer class="foot">
   <svg class="ic ic-32 mark" aria-hidden="true"><use href="#i-target"/></svg>
   <p>&copy; <span id="year">2026</span> Mochammad Bisma Prasetya &middot; <a href="#top">kembali ke atas</a></p>
+  <p class="credit">Visual memakai fan art Ryomen Sukuna dari kreator independen &middot; aset asli milik Shueisha dan MAPPA</p>
 </footer>
 
 <!-- ================= OVERLAY + TOAST ================= -->

@@ -31,6 +31,18 @@
 <a href="#featured-project"><kbd>PROJECT</kbd></a>&nbsp;
 <a href="#kontak"><kbd>KONTAK</kbd></a>
 
+<br /><br />
+
+<table>
+  <tr>
+    <td width="33%"><img src="./assets/img/hero.jpg" alt="Fan art Ryomen Sukuna" /></td>
+    <td width="33%"><img src="./assets/img/sukuna-2.jpg" alt="Fan art Ryomen Sukuna" /></td>
+    <td width="33%"><img src="./assets/img/sukuna-team.jpg" alt="Fan art tim penyihir" /></td>
+  </tr>
+</table>
+
+<p align="center"><sub>Visual halaman ini memakai fan art Ryomen Sukuna milik kreator independen, bukan aset resmi. Aset asli milik <a href="https://www.shueisha.co.jp">Shueisha</a> dan <a href="https://www.mappa.co.jp">MAPPA</a>.</sub></p>
+
 </div>
 
 ---

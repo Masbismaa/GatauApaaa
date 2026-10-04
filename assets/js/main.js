@@ -74,6 +74,23 @@
   })();
 
   /* ============================================================
+     1b. SLOT GAMBAR: uptick kalau gambar ada, fallback kalau tidak
+     ============================================================ */
+  (function artSlots() {
+    $$('.art img').forEach(img => {
+      const wrap = img.closest('.art');
+      const mark = () => wrap.classList.add('ok');
+      if (img.complete && img.naturalWidth > 0) { mark(); return; }
+      img.addEventListener('load', mark, { once: true });
+      img.addEventListener('error', () => {
+        wrap.classList.add('empty');
+        const cap = wrap.querySelector('.art-label');
+        if (cap) cap.textContent = 'slot kosong · taruh ' + (wrap.dataset.art || 'gambar') + ' di assets/img/';
+      }, { once: true });
+    });
+  })();
+
+  /* ============================================================
      2. NAVIGASI
      ============================================================ */
   (function nav() {
