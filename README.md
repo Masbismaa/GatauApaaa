@@ -9,3 +9,7 @@
 - **Frontend:** UI/UX responsif, React, Tailwind, Vanilla JS
 - **Database:** MySQL, PostgreSQL, SQLite
 - **Lainnya:** Automation, Git, Problem Solving, Adaptif ke teknologi baru
+
+## Projects & Skills (Highlight)
+- **Featured:** [mtoa_alr](https://github.com/Masbismaa/mtoa_alr) — diprioritaskan di landing page.
+- **Yang bisa aku kerjakan:** Backend (API, Auth, Validasi), Frontend (Responsif, React, Tailwind), Database (MySQL/PostgreSQL/SQLite), Automation & Problem Solving.
